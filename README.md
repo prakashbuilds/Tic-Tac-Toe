@@ -1,26 +1,27 @@
-✅ Tic Tac Toe — Neon Edition
-A modern, animated Tic Tac Toe game built using HTML, CSS, and JavaScript, featuring player selection, neon glow UI, smooth animations, and winner highlight effects.
+✅ Tic Tac Toe — Neon Edition <br>
+ <br>A modern, animated Tic Tac Toe game built using HTML, CSS, and JavaScript, featuring player selection, neon glow UI, smooth animations, and winner highlight effects. <br>
+ <br>
+  <br>
 
-
-🎮 Features
-🔹 Player Selection<br>
+🎮 Features <br>
+ <br>🔹 Player Selection <br>
 Choose whether you want to play as X or O before the game starts.
-🔹 Neon Glow UI
-Beautiful glowing board and animated elements for a futuristic look.
-🔹 Smooth Animations
-Click pop-in animation
-Winner glowing effect
-Hover scale animation
-Fade-in transitions
-🔹 Winner Detection
-Automatically checks all win patterns and highlights the winning cells.
-🔹 Draw Detection
-Shows a draw message and resets the game automatically.
-🔹 Restart Button
-Reset the game at any time and return to the player selection screen.
-
-🧠 Technologies Used
-HTML5 — Structure of the game
+ <br>🔹 Neon Glow UI <br>
+ <br>Beautiful glowing board and animated elements for a futuristic look. <br>
+ <br>🔹 Smooth Animations <br>
+ <br>Click pop-in animation <br>
+ <br>Winner glowing effect <br>
+ <br>Hover scale animation <br>
+ <br>Fade-in transitions <br>
+ <br>🔹 Winner Detection <br>
+ <br>Automatically checks all win patterns and highlights the winning cells. <br>
+ <br>🔹 Draw Detection <br>
+ <br>Shows a draw message and resets the game automatically. <br>
+ <br>🔹 Restart Button <br>
+ <br>Reset the game at any time and return to the player selection screen. <br>
+ <br>
+ <br>🧠 Technologies Used <br>
+ <br>HTML5 — Structure of the game
 CSS3 — Styling, animations, neon effects
 JavaScript (Vanilla JS) — Game logic, DOM updates, player flow
 
