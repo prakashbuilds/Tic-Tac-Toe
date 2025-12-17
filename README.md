@@ -80,7 +80,7 @@ Reset the game at any time and return to the player selection screen.
 ## 🙌 Author
 
 **Prakash**  
-GitHub: [@prakashofficial24-sketch](https://github.com/prakashofficial24-sketch)
+GitHub: [[@prakashofficial24-sketch](https://github.com/prakashofficial24-sketch)](https://github.com/prakashoffical24-sketch)
 
 ---
 
