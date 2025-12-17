@@ -1,10 +1,9 @@
 ✅ Tic Tac Toe — Neon Edition <br>
  <br>A modern, animated Tic Tac Toe game built using HTML, CSS, and JavaScript, featuring player selection, neon glow UI, smooth animations, and winner highlight effects. <br>
  <br>
-  <br>
 
 🎮 Features <br>
- <br>🔹 Player Selection <br>
+ <br>🔹 Player Selection
 Choose whether you want to play as X or O before the game starts.
  <br>🔹 Neon Glow UI <br>
  <br>Beautiful glowing board and animated elements for a futuristic look. <br>
