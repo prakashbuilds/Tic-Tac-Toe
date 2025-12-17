@@ -5,7 +5,7 @@
 🎮 Features <br>
  <br>🔹 Player Selection
 Choose whether you want to play as X or O before the game starts.
- <br>🔹 Neon Glow UI <br>
+ <br>🔹 Neon Glow UI 
  <br>Beautiful glowing board and animated elements for a futuristic look. <br>
  <br>🔹 Smooth Animations <br>
  <br>Click pop-in animation <br>
