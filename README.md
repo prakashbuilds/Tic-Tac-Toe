@@ -42,12 +42,11 @@ Reset the game at any time and return to the player selection screen.
 
 ---
 
-## 📂 Project Structure
-
 /
-├── index.html # Main game layout
-├── style.css # Styling + animations
-└── script.js # Game logic (winner, draw, player switch)
+├── index.html      # Main game layout
+├── style.css       # Styling + animations
+└── script.js       # Game logic
+
 
 ---
 
